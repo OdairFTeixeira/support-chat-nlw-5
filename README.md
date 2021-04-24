@@ -16,7 +16,7 @@ This project was developed using the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/)
 - [TypeORM](https://typeorm.io/#/)
-- [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ## 💻 Project
 
@@ -31,11 +31,5 @@ This Project was developed during the NodeJS path in the fifth edition of NLW (N
 - Start the server with `yarn dev`
 
 You can access the app typing [`localhost:3333`](http://localhost:3333) on your favorite browser.
-
-## 📄 License
-
-This project is under the MIT [LICENSE](LICENSE.md)
-
----
 
 [Join the Rocketseat community](https://discordapp.com/invite/gCRAFhc)
